@@ -2,7 +2,7 @@
 
 ### 💻 Java Full Stack Developer 🚀
 
-* 🌱 I’m currently learning **Spring Boot, Spring Security, React & DSA**
+* 🌱 I’m currently learning **Spring Boot, Spring Security**
 * 👨‍💻 I’m building projects using **Java, Spring Boot, React & MySQL**
 * 🏦 Currently working on a **Bank Management System**
 * ⚡ Interested in **Backend Development, REST APIs & Full Stack Development**
